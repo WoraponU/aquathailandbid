@@ -5,7 +5,7 @@
 @endsection
 
 @section('js')
-    <script src="/js/app-customer.js"></script>
+    <script src="/js/build.js"></script>
 @endsection
 
 @section('css')
